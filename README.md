@@ -1,2 +1,1 @@
-# Project2
-HTML5, CSS, BOOTSTRAP
+TinDog Starting Files
